@@ -68,4 +68,4 @@ The word prediction model effectively learns patterns and dependencies within in
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Abdallafr3oon/Word-and-Character-prediction-.git

@@ -21,7 +21,7 @@ Both models leverage natural language processing (NLP) techniques and are traine
 - The final layer is a softmax layer with units equal to the total number of words in the dataset.
 
 ### Accuracy
-- Achieves nearly **100% accuracy**, demonstrating exceptional ability to predict the next word in a sequence.
+- Achieves nearly **90% accuracy**, demonstrating exceptional ability to predict the next word in a sequence.
 
 ### Conclusion
 The word prediction model effectively learns patterns and dependencies within input sequences, providing highly accurate predictions.
